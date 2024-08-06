@@ -1,1 +1,1 @@
-Foundational machine learning algorithms implemented using only numpy & pandas
+Foundational machine learning algorithms implemented in python using only numpy & pandas
